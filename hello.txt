@@ -1,4 +1,4 @@
 new world
 python program
 
-world=1
+world=12
