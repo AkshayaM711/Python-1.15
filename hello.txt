@@ -1,3 +1,3 @@
 new world
 python program
-hiiii
+hi=0
